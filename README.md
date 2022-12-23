@@ -35,4 +35,21 @@ Main Tasks:
 
 ## Hello World!
 
-![](images/robot_photo.jpg)
+## <img src="images/robot_photo.jpg" width="250"/>
+
+## Contributors ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ahmedfarag9"><img src="https://avatars3.githubusercontent.com/u/44787287?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Ahmed Farag</b></sub></a><br /> </td>
+    <td align="center"><a href="https://github.com/FadyFouad"><img src="https://avatars.githubusercontent.com/u/26604339?v=4" width="100px;" alt=""/><br /><sub><b>Fady Fouad</b></sub></a><br /> </td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
